@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/case_studies/MoviesCaseStudy/src/main/resources/links.csv,/home/suket/case_studies/MoviesCaseStudy/target/scala-2.11/classes/links.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/case_studies/MoviesCaseStudy/src/main/resources/movies.csv,/home/suket/case_studies/MoviesCaseStudy/target/scala-2.11/classes/movies.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/suket/case_studies/MoviesCaseStudy/src/main/resources/ratings.csv,/home/suket/case_studies/MoviesCaseStudy/target/scala-2.11/classes/ratings.csv)[0m
